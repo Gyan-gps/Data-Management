@@ -48,8 +48,8 @@ const Home = () => {
               <tr>
                 <th scope="col">Sr. No.</th>
                 <th scope="col">Name</th>
-                <th scope="col">F/H Name</th>
                 <th scope="col">Gender</th>
+                <th scope="col">F/H Name</th>
                 <th scope="col">Mobile No.</th>
                 <th scope="col" style={{ textAlign: "center" }}>
                   Actions
